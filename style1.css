@@ -1,0 +1,339 @@
+
+        .yan {
+            display: inline-block;
+            display: grid;
+            grid-template-columns: auto auto;
+            height: 75px;
+            width: 300px;
+            position: relative;
+            right: -1000px;
+            margin-top: 250px;
+        }
+
+        .yan svg {
+            font-size: 2em;
+            margin-top: 40px;
+            color: red;
+
+        }
+
+        .yan h3 {
+            margin-left: 15px;
+            margin-top: 40px;
+        }
+
+        .yan1 {
+            color: darkgrey;
+        }
+
+        .kutu {
+            display: grid;
+            grid-template-columns: auto auto;
+            height: 60px;
+            width: 350px;
+            border-width: 1px;
+            border-radius: 7px;
+            border-style: solid;
+            border-color: rgb(128, 128, 128, 0.5);
+            position: relative;
+            right: -1000px;
+            line-height: 1.5;
+            color: rgb(65, 61, 61);
+        }
+/* 
+        .yan4 a {
+            color: white;
+            font-size: 1em;
+            display: inline-block;
+            background-color:#3a689b;
+            padding: 10px;
+            text-decoration: none;
+            margin-left: 1100px;
+            margin-top: 50px;
+            border-radius: 7px;
+            width: 180px;
+            font-family: inherit;
+        }
+
+        .yan4 a:hover {
+            background-color: white;
+            color:#3a689b;
+            border: 1px solid #3a689b;
+            border-radius: 5px;
+            text-decoration: none;
+        }
+         */
+        .yan4 {
+            margin-left: 1000px;
+            margin-top: 20px;
+        }
+
+        .yan4 a{
+            text-decoration: none;
+            color: black;
+            margin-left: 25px;
+            font-size: 1.25em;
+        }
+
+        .yan4 a:hover {
+            text-decoration: underline;
+            color: red;
+        }
+        
+
+        .yan5 {
+            margin-left: 1000px;
+            margin-top: 30px;
+        }
+
+        .yan5 a {
+            text-decoration: none;
+            color: black;
+            margin-left: -60px;
+            font-size: 1.25em;
+        }
+
+        .yan5 a:hover {
+            text-decoration: underline;
+            color: red;
+        }
+
+        .yan6 {
+            margin-left: 1000px;
+            margin-top: 30px;
+        }
+
+        .yan6 a {
+            text-decoration: none;
+            color: black;
+            margin-left: -60px;
+            font-size: 1.25em;
+        }
+
+        .yan6 a:hover {
+            text-decoration: underline;
+            color: red;
+        }
+
+        .yan7 {
+            margin-left: 1000px;
+            margin-top: 30px;
+        }
+
+        .yan7 a {
+            text-decoration: none;
+            color: black;
+            margin-left: -60px;
+            font-size: 1.25em;
+        }
+
+        .yan7 a:hover {
+            text-decoration: underline;
+            color: red;
+        }
+
+        .tablo100 {
+            width: 600px;
+            height: 120px;
+            display: grid;
+            grid-template-columns: auto auto auto;
+            position: relative;
+            right: -200px;
+            margin-top: 30px;
+            border-style: solid;
+            border-radius: 12px;
+            border-color: rgba(128, 128, 128, 0.2);
+            background-color: rgb(128, 128, 128, 0.1);
+            border-width: 1px;
+
+        }
+
+
+        .tablo100 button {
+            font-family: "Change Calibre", "Helvetica Neue", Helvetica, Arial, Tahoma, sans-serif;
+            font-size: medium;
+            background-color: white;
+            height: 50px;
+            margin-top: 30px;
+            margin-left: 20px;
+            margin-right: 20px;
+            border-style: solid;
+            border-color: rgb(128, 128, 128, 0.6);
+            border-radius: 5px;
+            border-width: 1px;
+        }
+
+        .tablo100 button:hover {
+            color: red;
+
+        }
+
+        .tablo100 svg {
+            font-size: 5em;
+            color: rgb(128, 128, 128, 0.8);
+            margin-left: 10px;
+            margin-right: 10px;
+            margin-top: 20px;
+
+        }
+
+        .tablo29 h2 {
+            margin-left: 200px;
+            text-decoration: double;
+            font-family: "Change Calibre", "Helvetica Neue", Helvetica, Arial, Tahoma, sans-serif;
+
+        }
+
+        .tablo30 {
+            border-radius: 12px;
+            background-color: rgb(255, 255, 255);
+            border-width: 1px;
+            border-color: rgba(128, 128, 128, 0.2);
+            border-style: solid;
+            width: 600px;
+            height: 250px;
+            position: relative;
+            right: -200px;
+            font-size: medium;
+            font-family: "Change Calibre", "Helvetica Neue", Helvetica, Arial, Tahoma, sans-serif;
+        }
+
+        .tablo30 h2 {
+            text-align: center;
+            font-family: "Change Calibre", "Helvetica Neue", Helvetica, Arial, Tahoma, sans-serif;
+        }
+
+        .tablo30 svg {
+            color: red;
+            font-size: 3em;
+            margin-left: 278px;
+            margin-top: 20px;
+        }
+
+        .tablo30 p {
+            margin-left: 10px;
+            margin-right: 10px;
+        }
+
+        .ortala {
+            font-family: "Change Calibre", "Helvetica Neue", Helvetica, Arial, Tahoma, sans-serif;
+            line-height: 1.5;
+        }
+
+        .sabit svg h3 {
+            display: grid;
+            grid-template-columns: 10px 30px;
+
+        }
+
+        .text33 {
+            margin-left: 200px;
+
+        }
+
+        .kutu13 {
+            width: 600px;
+            height: 120px;
+            display: grid;
+            grid-template-columns: auto auto auto;
+            position: relative;
+            right: -200px;
+            margin-top: 30px;
+            border-style: solid;
+            border-left: none;
+            border-top: none;
+            border-right: none;
+            border-radius: 0px;
+            border-color: rgb(128, 128, 128, 0.2);
+            border-width: 1px;
+
+
+        }
+
+        .kutu14 {
+            width: 600px;
+            height: 120px;
+            display: grid;
+            grid-template-columns: auto auto auto;
+            position: relative;
+            right: -200px;
+            margin-top: 30px;
+            border-style: solid;
+            border-left: none;
+            border-top: none;
+            border-right: none;
+            border-bottom: none;
+            border-radius: 0px;
+        }
+
+        .kutu16 button {
+            font-family: "Change Calibre", "Helvetica Neue", Helvetica, Arial, Tahoma, sans-serif;
+            font-size: small;
+            background-color: white;
+            width: 600px;
+            height: 40px;
+            margin-top: 5px;
+            margin-left: 200px;
+            margin-right: 20px;
+            border-style: solid;
+            border-color: rgb(128, 128, 128, 0.3);
+            border-radius: 7px;
+            display: grid;
+            grid-template-columns: auto auto;
+            text-decoration: underline;
+            border-width: 1px;
+
+        }
+
+        .kutu16 button:hover {
+            color: red;
+            text-decoration: underline;
+            overflow: black;
+        }
+
+        .kutu16 svg {
+            margin-top: 10px;
+            margin-left: 250px;
+        }
+
+        .kutu18 {
+            margin-left: 200px;
+            text-decoration: underline;
+            color: rgb(30, 43, 30, 0.5);
+        }
+    
+        .kutu46 button {
+            font-family: "Change Calibre", "Helvetica Neue", Helvetica, Arial, Tahoma, sans-serif;
+            font-size: small;
+            background-color: white;
+            width: 600px;
+            height: 40px;
+            margin-top: 5px;
+            margin-left: 200px;
+            margin-right: 20px;
+            border-style: solid;
+            border-color: rgb(128, 128, 128, 0.3);
+            border-radius: 7px;
+            display: grid;
+            grid-template-columns: auto auto;
+            text-decoration: none;
+            border-width: 1px;
+
+        }
+
+        .kutu46 button:hover {
+            color: red;
+            text-decoration: none;
+            overflow: black;
+        }
+
+        .kutu46 svg {
+            margin-top: 12px;
+            margin-left: 300px;
+        }
+        .kutu22{
+            background-color: #f6f4f6;
+            margin-top: 0px;
+            margin-bottom: 0px;
+        }
+       
